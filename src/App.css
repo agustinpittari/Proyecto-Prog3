@@ -4,6 +4,7 @@
 .btn-close{
     align-self:flex-end
 }
-.card-info{
-    display: none;
+
+.row{
+    align-items: flex-start
 }
